@@ -18,14 +18,23 @@ Parse - Parsing functionality for the program
 
 
 #####Extra modules needed to run the code: 
+
 • Database.HDBC
+
 • Database.HDBC.Sqlite3
+
 • Network.HTTP
 
+
 #####In order to install these in your laptops or PC simply run the command:
+
 $ cabal install HDBC
+
 $ cabal install HDBC-sqlite3
+
 $ cabal install HTTP
+
 $ cabal install HaXml
+
 
 For complete documentation, please check the haddock doc.
