@@ -6,15 +6,15 @@ This project implements a Haskell program for harvesting information from the We
 
 #####Components:
 
-*DB* - Database functionality for the program
+*_DB_* - Database functionality for the program
 
-*DataType* - Principle DataType used for the program
+*_DataType_* - Principle DataType used for the program
 
-*Main* - Main module used in the program to process data from Yahoo Finance and provide interactivity
+*_Main_* - Main module used in the program to process data from Yahoo Finance and provide interactivity
 
-*NW* - Network functionality for the program
+*_NW_* - Network functionality for the program
 
-*Parse* - Parsing functionality for the program
+*_Parse_* - Parsing functionality for the program
 
 
 #####Extra modules needed to run the code: 
